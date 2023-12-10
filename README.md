@@ -1,6 +1,6 @@
 # Elementary School Class List Generator
 
-This was the first ever side project I worked on. This was inspired by my mother, who is a first grade teacher and has explained this problem time and time again to me.
+This was the first ever side project I worked on, back in 2017. It was inspired by my mother, who is a first grade teacher and has explained this problem time and time again to me.
 
 I built this while driving across the country, and less than a year into my programming journey. I had only been exposed to Java as a programming language at the time, and I clearly had no concept of code separation or building for maintainability. 
 
