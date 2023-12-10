@@ -1,4 +1,4 @@
-# Elementary School Class List Generator (V1)
+# Elementary School Class List Generator - version 1
 
 This was the first ever side project I worked on, back in 2017. It was inspired by my mother, who is a first grade teacher and has explained this problem time and time again to me.
 
